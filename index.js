@@ -4,5 +4,5 @@ function getFirstSelector(selector) {
 }
 
 function nestedTareget() {
-  return 
+  return document.getElementById("nested").querySelector()
 }
